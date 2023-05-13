@@ -18,4 +18,4 @@ My GitHub page is http://github.com/DylanDaGoat1.
 
 * Lab 7
 
-    Lab 7 is one of my favorite labs becuase I really enjoyed coding the first part with my partner which was the Hi-Lo game. This was the lab where I really got used to using the if and else if statements. When looking over my Hi-Lo game code, I like how easy is was to read as well as how nicely it flowed from top to bottom which made it simple trace over and debug errors.
+    Lab 7 is one of my favorite labs because I really enjoyed coding the first part with my partner which was the Hi-Lo game. This was the lab where I really got used to using the if and else if statements. When looking over my Hi-Lo game code, I like how easy is was to read as well as how nicely it flowed from top to bottom which made it simple trace over and debug errors.
